@@ -12,7 +12,7 @@
 		<module>e3mall-manager-domain</module>
 		<module>e3mall-manager-dao</module>
 		<module>e3mall-manager-service</module>
-		<module>e3mall-manager-controller</module>
+		<module>e3mall-manager-interface</module>
 	</modules>
 	<dependencies>
 		<dependency>
